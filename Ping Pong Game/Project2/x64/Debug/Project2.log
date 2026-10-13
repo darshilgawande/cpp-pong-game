@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(12,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(12,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(12,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(29,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(30,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(52,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(52,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(52,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(52,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(96,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(97,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(110,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(122,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(135,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Darshil Gawande\source\repos\Project2\Project2\main.cpp(138,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\Darshil Gawande\source\repos\Project2\x64\Debug\Project2.exe
